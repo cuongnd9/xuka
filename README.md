@@ -1,6 +1,6 @@
 # xuka
 
-[![Build Status](https://travis-ci.org/103cuong/xuka.svg?branch=master)](https://travis-ci.org/103cuong/xuka)
+[![Build Status](https://travis-ci.com/103cuong/xuka.svg?branch=master)](https://travis-ci.com/103cuong/xuka)
 
 A simple 👰🏻 HTTP client
 
