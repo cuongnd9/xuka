@@ -1,11 +1,11 @@
 {
-  "name": "typescript-npm-template",
-  "version": "0.0.1",
-  "description": "A TypeScript template 🌼 for npm package",
+  "name": "xuka",
+  "version": "0.1.0",
+  "description": "A simple 👰🏻 HTTP client",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "repository": "https://github.com/103cuong/ts-npm-template",
-  "author": "Nguyen Duy Cuong <103cuong@gmail.com>",
+  "repository": "https://github.com/103cuong/xuka",
+  "author": "Cuong Tran <103cuong@gmail.com>",
   "keywords": [
     "npm",
     "typescript",
@@ -53,8 +53,6 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "diana-js": "^0.6.0",
-    "hera-js": "^0.2.0",
-    "juno-js": "^0.0.2"
+    "axios": "^0.20.0"
   }
 }
