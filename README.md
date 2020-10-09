@@ -1,8 +1,11 @@
+<img align="right" width="100" src="./.images/xuka.jpg">
+
 # xuka
 
 [![Build Status](https://travis-ci.com/103cuong/xuka.svg?branch=master)](https://travis-ci.com/103cuong/xuka)
 
 A simple 👰🏻 HTTP client
+
 
 ## usage
 
